@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到菜鸟小凯的博客
 
 You can use the [editor on GitHub](https://github.com/Green1Chen/Green1Chen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
